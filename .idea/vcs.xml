@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Deep linking examples/architecture-components-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Yelp_AAC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/androidAlarmManagerSample" vcs="Git" />
+  </component>
+</project>

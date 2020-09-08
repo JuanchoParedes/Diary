@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_my_profile">
+
+    <fragment
+        android:id="@+id/navigation_entries"
+        android:name="com.sunchildapps.diary.ui.home.EntriesFragment"
+        android:label="@string/title_my_entries"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_new_entry"
+        android:name="com.sunchildapps.diary.ui.newentry.NewEntryFragment"
+        android:label="@string/title_new_entry"
+        tools:layout="@layout/fragment_new_entry" />
+
+    <fragment
+        android:id="@+id/navigation_my_profile"
+        android:name="com.sunchildapps.diary.ui.myprofile.MyProfileFragment"
+        android:label="@string/title_my_profile"
+        tools:layout="@layout/fragment_my_profile" />
+</navigation>
