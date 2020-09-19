@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_my_profile">My Profile</string>
+    <string name="title_my_entries">Entries</string>
+    <string name="title_new_entry">New Entry</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="whats_about">What is about?</string>
+    <string name="add_your_location">Add your location</string>
+    <string name="share_this_on_facebook">Share this on facebook</string>
+    <string name="add_entry_button">Add Entry</string>
+</resources>
